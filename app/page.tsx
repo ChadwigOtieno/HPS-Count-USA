@@ -47,7 +47,7 @@ export default function Dashboard() {
         <div className="flex justify-between items-center">
           <div className="space-y-2">
             <div className="text-md text-muted-foreground mb-2">
-              Student: <span className="font-semibold">Vald</span>
+              Student: <span className="font-semibold">Vlad Charles</span>
             </div>
             <div className="text-md text-muted-foreground mb-2">
               Date: <span className="font-semibold">April 10, 2025</span>
